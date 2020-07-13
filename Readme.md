@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ваня Ньюман](https://up.htmlacademy.ru/javascript/20/user/51778).
-* Наставник: `Неизвестно`.
+* Наставник: Серёжа Попов.
 
 ---
 
